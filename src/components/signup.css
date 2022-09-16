@@ -10,6 +10,11 @@
   font-size: 40px;
 }
 
+.info-form p {
+  font-size: 14px;
+  color: red;
+}
+
 .info-form label {
   margin: 10px 0 0 0;
   font-size: 20px;

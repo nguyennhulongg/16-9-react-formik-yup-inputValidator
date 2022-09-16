@@ -41,7 +41,7 @@ const SignupForm = () => {
         <input 
           type ="text"  
           id='name' 
-          name='name'
+          name='name'        
           value={formik.values.name}
           onChange={formik.handleChange}
           placeholder='Enter Your Name'
